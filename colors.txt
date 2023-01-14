@@ -1,0 +1,8 @@
+category:red{
+category:brown{
+category:yellow{
+category:green{
+category:blue{
+category:violet{
+category:achromatic{
+{"category": "red", "": {}}{"category": "brown", "": {}}{"category": "yellow", "": {}}{"category": "green", "": {}}{"category": "blue", "": {}}{"category": "violet", "": {}}{"category": "achromatic", "": {}}
