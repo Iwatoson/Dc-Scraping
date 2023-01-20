@@ -1,0 +1,9 @@
+[
+{"category": "red", "categoryJPName": "赤系のカテゴリ"},
+{"category": "brown", "categoryJPName": "茶系のカテゴリ"},
+{"category": "yellow", "categoryJPName": "黄系のカテゴリ"},
+{"category": "green", "categoryJPName": "緑系のカテゴリ"},
+{"category": "blue", "categoryJPName": "青系のカテゴリ"},
+{"category": "violet", "categoryJPName": "紫系のカテゴリ"},
+{"category": "achromatic", "categoryJPName": "黒白系のカテゴリ"}
+]
